@@ -27,10 +27,10 @@ on-time performance, and maximize the value of AGR membership programs.
 - Question: Which states experienced the fastest ridership growth over the past three years? 
 - Insight: Vermont experienced an extraordinary 513.1% growth, indicating a massive emerging demand.
 
-**3. Operational Bottlenecks (OTP)**
-- Question: Which routes had an average OTP below 50% over the past three years? 
+**3. Operational Bottlenecks **
+- Question: Which routes had an average Ontime Performance rate (OTP) below 50% over the past three years? 
 - Insight: Long-distance routes like the Sunset Limited (30.7%) and Southwest Chief (32.7%) face significant delays due to the complexity of multi-state operations and logistical challenges.
 
-**4. Loyalty Program (AGR) Forecasting**
+**4. Loyalty Program Forecasting**
 - Question: What are the predicted AGR membership numbers for all states in FY24, based on FY21-FY23 growth rates? 
 - Insight: California leads by a wide margin with an expected 2.28M members and a 22.03% growth rate.
