@@ -1,5 +1,7 @@
-## Data Overview
+## Project Overview
+We built a centralized relational database and conducted SQL-based analysis to support strategic decision-making in resource planning, route optimization, and customer loyalty programs.
 
+## Data Overview
 The original dataset contained
 general information about Amtrak stations, while the data set we processed
 focused on ridership, OTP, AGR, procurement for each state. We have added a
