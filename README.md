@@ -20,8 +20,8 @@ on-time performance, and maximize the value of AGR membership programs.
 
 ## Business Transactions & Key Insights
 **1. Budget Allocation & Procurement**
-* [cite_start]**Question:** What are the average procurement expenses for all states over the past three years? [cite: 153]
-* [cite_start]**Insight:** California and New York dominate procurement spending (> $400M)[cite: 213, 233]. [cite_start]We recommend optimizing budget allocation for these high-spending states and assessing regional cost factors (e.g., Virginia's significant drop in expenses)[cite: 226, 230].
+* **Question:** What are the average procurement expenses for all states over the past three years? [cite: 153]
+* **Insight:** California and New York dominate procurement spending (> $400M)[cite: 213, 233]. [cite_start]We recommend optimizing budget allocation for these high-spending states and assessing regional cost factors (e.g., Virginia's significant drop in expenses)[cite: 226, 230].
 
 **2. Ridership Trends**
 * [cite_start]**Question:** Which states experienced the fastest ridership growth over the past three years? [cite: 235]
